@@ -1,7 +1,5 @@
-# Bootcamp
 # Heading 1
-Heading 1
-=========
+
 Theory of the bootcamp
 A good README.md has a few sections:
 
@@ -23,4 +21,5 @@ Submit the link to your project's GitHub repo after you've added a title using a
 https://commonmark.org/help/
 #
 # code block
+## Contributing
 

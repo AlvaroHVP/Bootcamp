@@ -1,4 +1,5 @@
 # Bootcamp
+# Heading 1
 Theory of the bootcamp
 A good README.md has a few sections:
 
